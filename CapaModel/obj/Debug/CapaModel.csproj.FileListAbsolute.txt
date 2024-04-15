@@ -1,0 +1,2 @@
+E:\Login Jona\Login Jona\LOgin aspx\CapaModel\obj\Debug\CapaModel.csproj.AssemblyReference.cache
+E:\Login Jona\Login Jona\LOgin aspx\CapaModel\obj\Debug\CapaModel.csproj.CoreCompileInputs.cache
